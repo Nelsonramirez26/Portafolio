@@ -1,0 +1,134 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    padding-bottom: 30px;
+}
+
+
+.card-text {
+    margin-bottom: 0px;
+}
+
+.list-group{
+
+    padding-top: 0px;
+    
+}
+.card-body {
+
+    padding-bottom: 0px;
+    padding-top: 5px;
+}
+
+ul {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+li {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.list-group-item {
+
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#cuerpo-principal{
+    margin-bottom: 30px;
+}
+
+#logo-footer{
+
+    width: 82px;
+    height: 24px;
+}
+
+#fondo-contacto {
+
+    background-color: #28A745;
+}
+
+#fondo-contacto h2{
+
+    font-size: 21pt;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.card-title {
+
+    font-size: 20pt;
+    font-weight: 300;
+    color: #212529;
+}
+
+.card-text {
+
+    font-size: 16pt;
+    font-weight: 300;
+    color: #707070;
+}
+
+.formato-segundo-texto {
+    font-size: 13pt;
+    font-weight: 300;
+    color: #707070;
+}
+.formato-segundo-texto {
+    font-size: 16pt;
+    font-weight: 300;
+    color: #707070;
+}
+
+span{
+    display: block;
+    float: left;
+    margin-left: 19px;
+    padding-top: 9px;
+    margin-bottom: 10px;
+}
+
+#destacado {
+
+    font-size: 20pt;
+    font-weight: 500;
+    color: #28A745;
+    padding-top: 0px !important;
+}
+
+hr{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.alineacion-precios span{
+    float: right;
+}
+
+i {
+    padding-right: 5px;
+}
+
+.navbar-toggler-icon {
+    margin-left: 0;
+    margin-bottom: 0;
+}
+
+.texto-footer {
+    font-size: 16pt;
+    font-weight: 300;
+    color: #707070;
+}
+
+@media only screen and (min-width: 425px) {
+  #fondo-contacto  {
+
+    border-radius: 10px;
+}
+
+  }

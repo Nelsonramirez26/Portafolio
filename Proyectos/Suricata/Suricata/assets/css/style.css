@@ -1,0 +1,96 @@
+body {
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+.color-fondo{
+    background-color: #E83E8C;
+}
+
+
+.color-fondo2{
+    background-color: #17A2B8;
+}
+
+
+div {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.letra-tarjetas {
+
+    color: white;
+    text-align: center;
+    margin-top:11px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.fab{
+color:white;
+padding-left: 5px;
+vertical-align: middle;
+}
+
+footer img{
+display: block;
+margin: auto;
+}
+
+#suricata-footer {
+    width:53px;
+    height:100px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+    color:#707070;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 17px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+    font-family: 'Sans Regular', sans-serif;
+    font-size: 16px;
+
+
+
+}
+
+@media only screen and (max-width: 760px) {
+  .seccion-tarjetas {
+    display: none;
+  }
+}
+
+.card-title {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.list-group-item {
+        font-size: 11px;
+    font-weight: normal
+}
+
+.card-link{
+    font-size: 11px;
+    font-weight: normal
+}
+
+.navbar {
+    height: 85px;
+}
