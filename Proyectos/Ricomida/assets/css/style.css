@@ -1,0 +1,204 @@
+body {
+
+    width: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:white;
+}
+
+span {
+    width: 425pt;
+    display:block;
+    font-family: 'Cabin', sans-serif;
+    font-size: 40pt;
+    font-weight: 700;
+    color: #373A3C;
+    text-justify: auto;
+
+
+}
+
+.imagen-principal {
+    float: right;
+}
+
+.texto-principal {
+    width: 95%;
+    font-size: 228%;
+}
+
+
+
+p {
+
+    font-family: 'Cabin', sans-serif;
+    font-size: 21pt;
+    font-weight: 700;
+    color: #373A3C;
+}
+
+.en-linea {
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.card img {
+    width: 100%;
+    height: 180pt;
+}
+
+.card {
+
+    padding-right: 5pt;
+    padding-left: 5pt;
+    margin-left: 3pt;
+    margin-right: 3pt;
+    margin-bottom: 10pt;
+
+    height: 100%;
+
+    
+}
+
+.quinta-parte{
+
+    background-color: #DC3545;
+}
+
+
+.btn btn-outline-light {
+
+    color:white;
+}
+
+.quinta-parte {
+
+        text-align: center;
+}
+
+.quinta-parte span{
+
+        margin:auto;
+}
+
+
+/* CARRUSEL*/
+
+    .blog .carousel-indicators {
+
+        left: 0;
+
+        top: auto;
+
+        bottom: -40px;
+
+    }
+
+    .blog .carousel-indicators li {
+
+        background: #a3a3a3;
+
+        border-radius: 50%;
+
+        width: 8px;
+
+        height: 8px;
+
+    }
+
+    .blog .carousel-indicators .active {
+
+        background: #707070;
+
+    }
+
+    .logo {
+
+        font-family: 'Lobster', sans-serif;
+        font-size: 37pt;
+        font-weight: 400;
+        color: #FFFFFF !important;
+        margin:auto;
+    }
+
+    .texto-receta {
+        font-family: 'Cabin', sans-serif;
+        font-size: 20pt;
+        font-weight: 400;
+        color: #373A3C !important;
+    }
+
+    .card-title {
+        font-family: 'Cabin', sans-serif;
+        font-size: 23pt;
+        font-weight: 700;
+        color: #373A3C !important;
+    }
+
+    .card-text {
+        font-family: 'Cabin', sans-serif;
+        font-size: 16pt;
+        font-weight: 400;
+        color: #373A3C;
+    }
+
+    .texto-suscribete h1{
+        font-family: 'Cabin', sans-serif;
+        font-size: 40pt;
+        font-weight: 700;
+        color: #FFFFFF !important;
+    }
+
+    .texto-suscribete h2{
+
+        font-family: 'Lobster', sans-serif;
+        font-size: 30pt;
+        font-weight: 400;
+        color: #FFFFFF !important;
+
+
+    }
+
+    .posicion-suscribete {
+        margin-top: 10%;
+    }
+
+
+    .blog .carousel-indicators li {
+        background: #a3a3a3;
+        border-radius: 100%;
+        width: 20px;
+        height: 8px;
+}
+
+.carousel {
+    padding-bottom: 25px;
+}
+
+@media only screen and (max-width: 576px) {
+  .carrusel {
+    display: none;
+  }
+}
+
+hr {
+    margin-top: 4rem;
+    width: 80%;
+    border-top: 3px solid rgb(0, 0, 0);
+}
+
+.quinta-parte {
+    width: 100%;
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+}
+
+section {
+    width: 100%;
+}
+
