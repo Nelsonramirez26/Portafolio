@@ -1,0 +1,23 @@
+git branch (nombre de rama) ---> traer rama.
+git show-branch --->  mostrar todas las ramas.
+git checkout Nelson ---> cambiar a una rama especifica.
+touch index.html  ---> crea archivo index.html
+mkdir Proyectos ---> crea carpeta para contener proyectos anteriores solicitados.
+mv (nombre archivo o carpets (ruta destino)
+rm (archivo) ---> elimina un archivo
+rm -r (directorio) ----> eliminar un directorio y todos sus archivos
+cp (archivo o carpeta) (ruta de destino) ---> usando -r permite copiar directorio y todos los archivos.
+
+
+mv -r /E/ECAMP/Portafolio/Proyectos
+
+git pull origin master ---> actualizar repositorio con los archivos de otros
+
+git add --all / git add ----> encapula los cambios en una caja para luego subirlos
+
+git commit -m "Carga de proyectos anteriores"
+
+git push ---> enviar la la caja (contenido) a su destino
+
+
+https://nelsonramirezcandia.typeform.com/to/dGogRB  ---> dirección de formulario
