@@ -1,4 +1,13 @@
+git config --list ---> ver configuracion de git
+
+wq  -----> para salir
+
+git clone (dirección repositorio)
+
 git branch (nombre de rama) ---> traer rama.
+git config --global user.name "Tu Nombre"
+git config --global user.email tucorreo@mail.com
+
 git show-branch --->  mostrar todas las ramas.
 git checkout Nelson ---> cambiar a una rama especifica.
 touch index.html  ---> crea archivo index.html
