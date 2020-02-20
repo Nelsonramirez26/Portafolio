@@ -81,7 +81,6 @@ nav {
     font-size: 1.5em;
 }
 
-
 .card img {
     height: 90%;
     width: 89%;
@@ -166,9 +165,6 @@ nav {
     }
 }
 
-
-
-
 .form-contacto {
 
     text-align: center;
@@ -177,7 +173,6 @@ nav {
 .navbar-brand {
     font-weight: 700;
 }
-
 
 footer {
     background:green;
@@ -198,8 +193,6 @@ i {
     font-size: 50px;
     margin-right: 16px;
     margin-left: 16px;
-
-
 }
 
 .card-body{
