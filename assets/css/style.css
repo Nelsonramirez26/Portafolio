@@ -1,3 +1,7 @@
+* {
+    scroll-behavior: smooth;
+}
+
 .navbar-light .navbar-brand {
     color: white;
 }
@@ -37,7 +41,7 @@ nav {
 
     }
 
-    #texto-sobremi {
+    .texto-sobremi {
             padding-left: 10%;
             padding-right: 10%;
 }
@@ -57,6 +61,7 @@ nav {
     padding-left: 10%;
     padding-right: 10%;
     text-justify: auto;
+    text-align: justify;
 }
 
 .blog .carousel-indicators li {
@@ -71,14 +76,14 @@ nav {
 }
 
 .card {
-    height: 440px;
+    height: 400px;
     margin-top: 30px;
     font-size: 1.5em;
 }
 
 
 .card img {
-    height: 80%;
+    height: 90%;
     width: 89%;
     margin: auto;
 }
@@ -139,6 +144,24 @@ nav {
 @media only screen and (max-width: 767px) {
   .trabajos .card {
     height: 380px;
+
+    }
+
+    .card img {
+    height: 79%;
+
+    }
+}
+
+@media only screen and (max-width: 400px) {
+  .trabajos .card {
+    height: 260px;
+
+    }
+
+      .trabajos .card img{
+    
+    height: 220px;
 
     }
 }
